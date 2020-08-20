@@ -23,7 +23,7 @@ Some that I have used or have had some experience before...
 ## 🧑🏻‍ Other Me-s
 <p align="center">
 <a href = https://github.com/domsterthebot><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
-<a href = https://www.linkedin.com/in/dominic-lim-40559914b/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
+<a href = ><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
 
 <!-- <div style="display: flex; flex-direction: row">
   <a href="https://github.com/domsterthebot/domsterthebot" style="flex: 0.6">
