@@ -10,7 +10,7 @@ Some that I have used or have had some experience before...
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6495ed)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6495ed)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6495ed)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=squery&logoColor=white&color=6495ed)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6495ed)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/anuraghazra/convoychat">
