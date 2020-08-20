@@ -5,14 +5,14 @@
 :computer: Bachelor of Computing, Computer Science (w/ Hons)
 
 ## 🔧 Technologies & Tools
-Some that I have used and experienced before...
+Some that I have used or have some experience before...
 
 ## &#x1f4c8; GitHub Stats
 <div style="display: flex; flex-direction: row">
-  <a href="https://github.com/domsterthebot/domsterthebot">
+  <a href="https://github.com/domsterthebot/domsterthebot" style="flex: 0.6">
     <img align="left" alt="Dominic's GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=domsterthebot&show_icons=true&show_owner=true&theme=gruvbox&count_private=true&cache_seconds=1800&include_all_commits=true" />
   </a>
-  <a href="https://github.com/domsterthebot/domsterthebot">
+  <a href="https://github.com/domsterthebot/domsterthebot" style="flex: 0.4">
     <img align="left" alt="Dominic's Top Langs" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domsterthebot&show_owner=true&show_icons=true&theme=gruvbox&count_private=true&layout=compact&cache_seconds=1800" />
   </a>
 </div>
