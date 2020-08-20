@@ -7,19 +7,16 @@
 ## 🔧 Technologies & Tools
 Some that I have used and experienced before...
 
-
-
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/domsterthebot/domsterthebot">
-  <img align="left" alt="Dominic's GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=domsterthebot&show_icons=true&theme=gruvbox&count_private=true" />
-</a>
-<a href="https://github.com/domsterthebot/domsterthebot">
-  <img align="left" alt="Dominic's Top Langs" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domsterthebot&show_icons=true&theme=gruvbox&count_private=true&layout=compact" />
-</a>
+<div>
+  <a href="https://github.com/domsterthebot/domsterthebot">
+    <img align="left" alt="Dominic's GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=domsterthebot&show_icons=true&theme=gruvbox&count_private=true&cache_seconds=1800" />
+  </a>
+  <a href="https://github.com/domsterthebot/domsterthebot">
+    <img align="left" alt="Dominic's Top Langs" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domsterthebot&show_icons=true&theme=gruvbox&count_private=true&layout=compact&cache_seconds=1800" />
+  </a>
+</div>
 
-<br />
-
-<p>Oh wait! My **mom's** calling I'll be back to update more! </p>
 <!--
 **domsterthebot/domsterthebot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
