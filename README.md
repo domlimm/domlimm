@@ -1,6 +1,6 @@
 ### Hello there, a lil bit bout me 👋
 
-:notebook_with_decorative_cover: Undergraduate @ National University of Singapore 🇸🇬
+:notebook_with_decorative_cover: Undergraduate @ National University of Singapore
 
 :computer: Bachelor of Computing, Computer Science (w/ Hons)
 
