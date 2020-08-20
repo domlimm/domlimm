@@ -9,7 +9,7 @@ Some that I have used or have some experience before...
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="195" alt="Dominic's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domsterthebot&hide=lua&show_owner=true&show_icons=true&theme=gruvbox&count_private=true&layout=compact&cache_seconds=1800" />
+  <img align="center" height="195" alt="Dominic's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domsterthebot&hide=lua&card_width=250&show_owner=true&show_icons=true&theme=gruvbox&count_private=true&layout=compact&cache_seconds=1800" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="Dominic's GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=domsterthebot&show_icons=true&show_owner=true&theme=gruvbox&count_private=true&cache_seconds=1800&include_all_commits=true" />
