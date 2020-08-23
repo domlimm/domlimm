@@ -20,19 +20,14 @@ Some that I have used or have had some experience before...
   <img align="center" alt="Dominic's GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=domsterthebot&show_icons=true&show_owner=true&theme=vue&count_private=true&cache_seconds=1800&include_all_commits=true" />
 </a>
 
-## 🧑🏻‍ Other Me-s
+## 🧑🏻‍ Other Me's
 <p align="center">
 <a href = https://github.com/domsterthebot><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
 <a href = ><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
 
-<!-- <div style="display: flex; flex-direction: row">
-  <a href="https://github.com/domsterthebot/domsterthebot" style="flex: 0.6">
-    <img align="left" alt="Dominic's GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=domsterthebot&show_icons=true&show_owner=true&theme=gruvbox&count_private=true&cache_seconds=1800&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/domsterthebot/domsterthebot" style="flex: 0.4">
-    <img align="left" alt="Dominic's Top Langs" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domsterthebot&show_owner=true&show_icons=true&theme=gruvbox&count_private=true&layout=compact&cache_seconds=1800" />
-  </a>
-</div> -->
+## Status
+![](https://img.shields.io/badge/still-updating-brightgreen?style=for-the-badge)
+
 
 <!--
 **domsterthebot/domsterthebot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
