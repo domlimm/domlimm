@@ -20,10 +20,10 @@ Some that I have used or have had some experience before...
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="165" alt="Dominic's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domsterthebot&card_width=250&hide=css&show_owner=true&show_icons=true&theme=vue&count_private=true&layout=compact&cache_seconds=1800" />
+  <img align="center" height="165" alt="Dominic's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domsterthebot&card_width=250&hide=css&show_owner=true&show_icons=true&theme=default&count_private=true&layout=compact&cache_seconds=1800" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="Dominic's GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=domsterthebot&show_icons=true&show_owner=true&theme=vue&count_private=true&cache_seconds=1800&include_all_commits=true" />
+  <img align="center" alt="Dominic's GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=domsterthebot&show_icons=true&show_owner=true&theme=default&count_private=true&cache_seconds=1800&include_all_commits=true" />
 </a>
 
 <!--## 🧑🏻‍ Other Me's
