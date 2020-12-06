@@ -22,8 +22,8 @@ JavaScript, Java, Python, C#, Visual Basic (Excel), C
   <img align="center" alt="Dominic's GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=domsterthebot&show_icons=true&show_owner=true&theme=vue&count_private=true&cache_seconds=1800&include_all_commits=true" />
 </a>
 
-<--## 🧑🏻‍ Other Me's-->
-<!--<p align="center">
+<!--## 🧑🏻‍ Other Me's
+<p align="center">
 <a href = https://github.com/domsterthebot><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
 <a href = ><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>-->
 
