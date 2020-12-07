@@ -9,14 +9,14 @@ Some that I have used or have had some experience before...
 
 <!--JavaScript, Java, Python, C#, Visual Basic (Excel), C-->
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6495ed)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6495ed)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6495ed)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6495ed)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6495ed)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=6495ed)
-![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=6495ed)
-![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=6495ed)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=0366d6)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/anuraghazra/convoychat">
