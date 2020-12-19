@@ -4,6 +4,10 @@
 
 :computer: Bachelor of Computing, Computer Science (w/ Hons)
 
+:iphone: I'm interested in mobile development
+
+🤔 I’m looking for help with designing (UI/UX)
+
 ## 👨🏻‍💻 Technologies & Tools
 Some that I have used or have had some experience before...
 
