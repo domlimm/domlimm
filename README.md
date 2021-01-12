@@ -25,7 +25,7 @@ Some that I have used or have had some experience before...
 ## &#x1f4c8; GitHub Stats
 <!-- <div align="center"> -->
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" height="165" alt="Dominic's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domsterthebot&card_width=250&hide=css,lua&show_owner=true&show_icons=true&theme=default&count_private=true&layout=compact&cache_seconds=1800" />
+    <img align="center" height="165" alt="Dominic's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domsterthebot&card_width=250&show_owner=true&show_icons=true&theme=default&count_private=true&layout=compact&cache_seconds=1800" />
   </a>
 <!--</div>-->
 <!--<div align="center"> -->
