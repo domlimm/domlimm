@@ -22,17 +22,14 @@ Some that I have used or have had some experience before...
 ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=0366d6)
 
-## &#x1f4c8; GitHub Stats
-<!-- <div align="center"> -->
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" height="165" alt="Dominic's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domsterthebot&card_width=250&show_owner=true&show_icons=true&theme=default&count_private=true&layout=compact&cache_seconds=1800" />
-  </a>
-<!--</div>-->
-<!--<div align="center"> -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" alt="Dominic's GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=domsterthebot&show_icons=true&show_owner=true&theme=default&count_private=true&cache_seconds=1800&include_all_commits=true" />
-  </a>
-<!--</div> -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=domsterthebot&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=domsterthebot&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domsterthebot&show_owner=true&show_icons=true&theme=tokyonight&count_private=true&layout=compact" />
+</p>
 
 <!--## 🧑🏻‍ Other Me's
 <p align="center">
