@@ -28,7 +28,7 @@ Some that I have used or have had some experience before...
 </p>
 
 <p align="center">
-  <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domsterthebot&show_owner=true&show_icons=true&theme=tokyonight&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domsterthebot&show_owner=true&show_icons=true&theme=tokyonight&count_private=true&layout=compact" />
 </p>
 
 <!--## 🧑🏻‍ Other Me's
