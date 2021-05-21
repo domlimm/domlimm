@@ -23,7 +23,7 @@ Some that I have used or have had some experience before...
 ![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=0366d6)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=domsterthebot&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=domsterthebot&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=domsterthebot&theme=tokyonight" />
 </p>
 
