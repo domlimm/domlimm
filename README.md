@@ -4,7 +4,9 @@
 
 :computer: Bachelor of Computing, Computer Science (w/ Hons)
 
-:iphone: I'm interested in mobile development
+🔭 I’m currently working on becoming a Fullstack Developer
+
+<!-- :iphone: I'm interested in mobile development -->
 
 🤔 I’m looking for help with designing (UI/UX)
 
