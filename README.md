@@ -1,14 +1,14 @@
 ## hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-:notebook_with_decorative_cover: Undergraduate @ National University of Singapore
+:notebook_with_decorative_cover: Sophomore @ National University of Singapore
 
 :computer: Bachelor of Computing, Computer Science (w/ Hons)
 
-🔭 I’m currently working on becoming a Fullstack Developer
-
-<!-- :iphone: I'm interested in mobile development -->
+🔭 I’m currently working on becoming a Software Engineer
 
 🤔 I’m looking for help with designing (UI/UX)
+
+Connect with me! • [![Linkedin: Dominic Lim](https://img.shields.io/badge/-Dominic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominic-lim1/)](https://www.linkedin.com/in/dominic-lim1/)
 
 ## Technologies & Tools
 ```javascript
