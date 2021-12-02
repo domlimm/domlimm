@@ -15,7 +15,7 @@ Connect with me! • [![Linkedin: Dominic Lim](https://img.shields.io/badge/-Dom
 const dominic = {
     programming_languages: [
         'JavaScript', 'Java', 'HTML5/CSS3', 'SQL',
-        'C', 'Python', 'VBA',
+        'C#', 'C', 'Python', 'VBA',
         'Swift', 'Lua'
     ],
     technologies: {
