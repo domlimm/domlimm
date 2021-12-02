@@ -34,10 +34,10 @@ const dominic = {
             'Postman', 'Jest'
         ]
     },
-    software: {
+    software: [
         'VSCode', 'Vim', 'Git CLI', 'MySQL', 'Eclipse',
         'Android Studio', 'Visual Studio', 'Atom', 'Notepad++', 'Microsoft Office'
-    }
+    ]
 }
 ```
 
