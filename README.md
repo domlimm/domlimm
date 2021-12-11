@@ -126,7 +126,7 @@ const dominic = {
 </p>
 
 <p align="center">
-  \o<img src="https://gpvc.arturio.dev/domlimm" alt="profile views">o/
+  <img src="https://gpvc.arturio.dev/domlimm" alt="profile views">o/
 </p>
 
 <!--## 🧑🏻‍ Other Me's
