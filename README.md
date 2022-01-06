@@ -8,7 +8,7 @@
 
 🤔 I’m looking for help with designing (UI/UX)
 
-<p>• Connect with me •</p>
+<p>Connect with me  <b>o/</b></p>
 <a href="https://www.linkedin.com/in/dominic-lim1/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -16,7 +16,7 @@
 ## Programming Languages, Technologies & Tools
 <div>
     <br />
-    <div align="center">
+    <div>
       <p><b>Programming Languages</b></p>
       <br />
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
     </div>
     <br />
-    <div align="center">
+    <div>
       <p><b>Technologies</b></p>
       <br />
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -49,7 +49,7 @@
       <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
     </div>
     <br />
-    <div align="center">
+    <div>
       <p><b>Tools</b></p>
       <br />
       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -61,10 +61,18 @@
       <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
     </div>
 <div>
-
-<br />
-<br />
-
+<br /><br />
+<div>
+  <p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=domlimm&show_icons=true&theme=tokyonight&count_private=true" />
+  </p>
+</div>
+<div>
+  <p align="center">
+    <img src="https://gpvc.arturio.dev/domlimm" alt="profile views">
+  </p>
+</div>
+  
 <!-- ```javascript
 const dominic = {
     programming_languages: [
@@ -116,18 +124,18 @@ const dominic = {
 ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=white&color=0366d6) -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=domlimm&show_icons=true&theme=tokyonight&count_private=true" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=domlimm&theme=tokyonight" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=domlimm&theme=tokyonight" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domlimm&show_owner=true&show_icons=true&theme=tokyonight&count_private=true&layout=compact" />
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/domlimm" alt="profile views">o/
-</p>
+</p> -->
 
 <!--## 🧑🏻‍ Other Me's
 <p align="center">
