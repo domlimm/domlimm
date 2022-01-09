@@ -39,6 +39,7 @@
       <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
       <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
       <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -68,8 +69,8 @@
 </div>
 <div>
   <p align="center">
-    <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=domlimm" alt="profile views"> -->
-    <img src="https://gpvc.arturio.dev/domlimm" alt="profile views">
+    <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=domlimm" alt="profile views" /> -->
+    <img src="https://gpvc.arturio.dev/domlimm" alt="profile views" />
   </p>
 </div>
   
