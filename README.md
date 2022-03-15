@@ -4,9 +4,7 @@
 
 :computer: Bachelor of Computing, Computer Science (w/ Hons)
 
-🔭 I’m currently working on becoming a Software Engineer
-
-🤔 I’m looking for help with designing (UI/UX)
+💪 I’m currently working on becoming a Software Engineer
 
 <p>Connect with me  <b>o/</b></p>
 <a href="https://www.linkedin.com/in/dominic-lim1/">
