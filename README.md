@@ -1,12 +1,12 @@
-## hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hey there! I am Dominic, you may call me Dom! 👋
 
-:notebook_with_decorative_cover: Sophomore @ National University of Singapore
+:notebook_with_decorative_cover: Penultimate @ National University of Singapore
 
 :computer: Bachelor of Computing, Computer Science (w/ Hons)
 
 💪 I’m currently working on becoming a Software Engineer
 
-<p>Connect with me  <b>o/</b></p>
+<p>Connect with me via</p>
 <a href="https://www.linkedin.com/in/dominic-lim1/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
