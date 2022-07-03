@@ -1,4 +1,6 @@
-## Hey there! I am Dominic, you may call me Dom! 👋
+<!--## Hey there! I am Dominic, you may call me Dom! 👋-->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3500&color=407bff&lines=Hey+there%2C;I+am+Dominic%2C+%26+most+call+me+Dom!;Welcome+to+my+GitHub+profile%2C;and+thanks+for+visiting!)](https://git.io/typing-svg)
 
 :notebook_with_decorative_cover: Penultimate @ National University of Singapore
 
