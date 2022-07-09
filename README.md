@@ -1,22 +1,23 @@
-<!--## Hey there! I am Dominic, you may call me Dom! 👋-->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3500&color=407bff&lines=Hey+there%2C;I+am+Dominic%2C+%26+most+call+me+Dom!;Welcome+to+my+GitHub+profile%2C;and+thanks+for+visiting!)](https://git.io/typing-svg)
 
-:notebook_with_decorative_cover: Penultimate @ National University of Singapore
+<section>
+  <p>:notebook_with_decorative_cover: Penultimate @ National University of Singapore</p>
+  <p>:computer: Bachelor of Computing, Computer Science (w/ Hons)</p>
+  <p>💪 I’m currently working on becoming a Software Engineer</p>
+</section>
 
-:computer: Bachelor of Computing, Computer Science (w/ Hons)
-
-💪 I’m currently working on becoming a Software Engineer
-
-<p>Connect with me via</p>
-<a href="https://www.linkedin.com/in/dominic-lim1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<h3>Connect with me via<h3>
+<p>
+  <a href="https://www.linkedin.com/in/dominic-lim1/" title="LinkedIn">
+    <img src="svgs/linkedin.svg" alt="linkedin" height="32" width="auto" />
+  </a>
+</p>
 
 <hr>
-<div>
+
+<section>
     <div>
-      <p><b>Programming Languages</b></p>
+      <h3>Programming Languages</h3>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -26,9 +27,8 @@
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
     </div>
-    <br />
     <div>
-      <p><b>Technologies</b></p>
+      <h3>Technologies</h3>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
@@ -46,9 +46,8 @@
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
     </div>
-    <br />
     <div>
-      <p><b>Tools</b></p>
+      <h3>Tools</h3>
       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
       <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
       <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
@@ -57,19 +56,23 @@
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
       <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
     </div>
-<div>
+</section>
+
 <hr>
-<div>
-  <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=domlimm&show_icons=true&count_private=true" />
-  </p>
-</div>
-<div>
-  <p align="center">
-    <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=domlimm" alt="profile views" /> -->
-    <img src="https://gpvc.arturio.dev/domlimm" alt="profile views" />
-  </p>
-</div>
+
+<section>
+  <div>
+    <p align="center">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api?username=domlimm&show_icons=true&count_private=true" />
+    </p>
+  </div>
+  <div>
+    <p align="center">
+      <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=domlimm" alt="profile views" /> -->
+      <img src="https://gpvc.arturio.dev/domlimm" alt="profile views" />
+    </p>
+  </div>
+</section>
   
 <!-- ```javascript
 const dominic = {
@@ -142,7 +145,6 @@ const dominic = {
 
 <!--## Status
 ![](https://img.shields.io/badge/still-updating-brightgreen?style=for-the-badge)-->
-
 
 <!--
 **domsterthebot/domsterthebot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
