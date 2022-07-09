@@ -8,7 +8,7 @@
 
 <h3>Connect with me via<h3>
 <p>
-  <a href="https://www.linkedin.com/in/dominic-lim1/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/dominiclimkj/" title="LinkedIn">
     <img src="svgs/linkedin.svg" alt="linkedin" height="32" width="auto" />
   </a>
 </p>
@@ -17,7 +17,7 @@
 
 <section>
     <div>
-      <h3>Programming Languages</h3>
+      <h4>Programming Languages</h4>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
     </div>
     <div>
-      <h3>Technologies</h3>
+      <h4>Technologies</h4>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
@@ -47,7 +47,7 @@
       <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
     </div>
     <div>
-      <h3>Tools</h3>
+      <h4>Tools</h4>
       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
       <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
       <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
