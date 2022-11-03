@@ -1,20 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3500&color=407bff&lines=Hey+there%2C;I+am+Dominic%2C+%26+most+call+me+Dom!;Welcome+to+my+GitHub+profile%2C;and+thanks+for+visiting!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3500&color=407bff&lines=Hey+there%2C;I+am+Dominic%2C;%26+most+call+me+Dom!;Welcome+to+my+GitHub+profile%2C;and+thanks+for+visiting!)](https://git.io/typing-svg)
 
 <section>
-  <ul>
-    <li>
-      <p>:notebook_with_decorative_cover: Penultimate @ National University of Singapore</p>
-    </li>
-    <li>
-      <p>:computer: Bachelor of Computing, Computer Science (w/ Hons)</p>
-    </li>
-    <li>
-      <p>💪 I’m currently working on becoming a Software Engineer</p>
-    </li>
-    <li>
-      <p>⚡ Fun fact: I always use dark mode on my devices 🌑 </p>
-    </li>
-  </ul>
+  <p>:notebook_with_decorative_cover: Penultimate @ National University of Singapore</p>
+  <p>:computer: Bachelor of Computing, Computer Science (w/ Hons)</p>
+  <p>💪 I’m currently working on becoming a Software Engineer and am interested in backend or fullstack development</p>
+  <p>⚡ <s>Fun</s> fact: I always use dark mode on my devices 🌑 </p>
 </section>
 
 <section>
