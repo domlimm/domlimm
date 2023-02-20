@@ -69,7 +69,7 @@
 <section>
   <div>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=domlimm&show_icons=true&count_private=true&theme=github_dark" alt="github-stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=domlimm&show_icons=true&count_private=true&theme=github_dark&hide_title=true&&hide_border=true" alt="github-stats" />
     </p>
   </div>
   <div>
