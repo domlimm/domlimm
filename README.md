@@ -1,22 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3500&color=407bff&lines=Hey+there%2C;I+am+Dominic%2C;%26+most+call+me+Dom!;Welcome+to+my+GitHub+profile%2C;and+thanks+for+visiting!)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&duration=3500&color=407bff&lines=Hey+there%2C;I+am+Dominic%2C;%26+most+call+me+Dom!;Welcome+to+my+GitHub+profile%2C;and+thanks+for+visiting!)](https://git.io/typing-svg) -->
 
-<section>
+<!-- <section>
   <p>:notebook_with_decorative_cover: Penultimate @ National University of Singapore</p>
   <p>:computer: Bachelor of Computing, Computer Science (w/ Hons)</p>
   <p>💪 I’m currently working on becoming a Software Engineer and am interested in backend or fullstack development</p>
   <p>⚡ <s>Fun</s> fact: I always use dark mode on my devices 🌑 </p>
-</section>
+</section> -->
 
-<section>
-  <h3>Connect with me</h3>
+<!-- <section>
+  <h3>Thanks for visiting! Feel free to connect with me down below</h3>
   <p>
     <a href="https://www.linkedin.com/in/dominiclimkj/" title="LinkedIn">
       <img src="svgs/linkedin.svg" alt="linkedin" height="24" width="auto" />
     </a>
   </p>
-</section>
+</section> -->
 
-<hr>
+<!-- <hr> -->
 
 <details>
   <summary>
@@ -27,11 +27,11 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
   </div>
   <div>
     <h4>Technologies</h4>
@@ -64,7 +64,7 @@
   </div>
 </details>
 
-<hr>
+<!-- <hr> -->
 
 <section>
   <div>
@@ -79,6 +79,12 @@
     <p align="center">
       Thanks for visiting! Cya! 🤟
     </p>
+    <div align="center">
+      <p>Oh! Also, reach out here if you may, down below! 😎</p>
+      <a href="https://www.linkedin.com/in/dominiclimkj/" title="LinkedIn">
+        <img src="svgs/linkedin.svg" alt="linkedin" height="24" width="auto" />
+      </a>
+    </div>
   </div>
 </section>
 
