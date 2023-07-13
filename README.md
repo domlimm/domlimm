@@ -72,20 +72,20 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=domlimm&show_icons=true&count_private=true&theme=github_dark&hide_title=true&&hide_border=true" alt="github-stats" />
     </p>
   </div>
-  <div>
-    <p align="center">
-      <img src="https://gpvc.arturio.dev/domlimm" alt="profile-views" />
-    </p>
-    <p align="center">
-      Thanks for visiting! Cya! 🤟
-    </p>
-    <div align="center">
-      <p>Oh! Also, reach out here if you may, down below! 😎</p>
-      <a href="https://www.linkedin.com/in/dominiclimkj/" title="LinkedIn">
-        <img src="svgs/linkedin.svg" alt="linkedin" height="24" width="auto" />
-      </a>
-    </div>
-  </div>
+  <!--   <div>
+      <p align="center">
+        <img src="https://gpvc.arturio.dev/domlimm" alt="profile-views" />
+      </p>
+      <p align="center">
+        Thanks for visiting! Cya! 🤟
+      </p>
+      <div align="center">
+        <p>Oh! Also, reach out here if you may, down below! 😎</p>
+        <a href="https://www.linkedin.com/in/dominiclimkj/" title="LinkedIn">
+          <img src="svgs/linkedin.svg" alt="linkedin" height="24" width="auto" />
+        </a>
+      </div>
+    </div> -->
 </section>
 
 <!--
